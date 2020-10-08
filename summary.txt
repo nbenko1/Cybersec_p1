@@ -1,2 +1,9 @@
 Nicholai Benko Summary
 Project 1
+
+
+1.) nmap is a command line tool that scans a given ip address and returns information about the ports on the machine
+
+2.) A socket is an endpoint node that is used for sending and receiving information over a network. 
+
+3.) A thread is subset of a process that can be given a task and executed independently of its parent process

@@ -7,3 +7,5 @@ Project 1
 2.) A socket is an endpoint node that is used for sending and receiving information over a network. 
 
 3.) A thread is subset of a process that can be given a task and executed independently of its parent process
+
+4.) multithreading is when a process creates multiple threads that are running at the same time. Because they run independently, each thread can perform its function in parallel with the other threads
